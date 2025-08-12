@@ -39,9 +39,13 @@ sudo systemctl restart tor
 Clone the repo and run the script:
 
 git clone https://github.com/MaxPi-Dude/Chameleon-IP.git
+
 cd ChameleonIP
+
 chmod +x ChameleonIP.sh
+
 sudo ./ChameleonIP.sh
+
 
 ## 🧪 Example Output
 
