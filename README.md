@@ -47,6 +47,26 @@ chmod +x ChameleonIP.sh
 sudo ./ChameleonIP.sh
 
 
+## Configure SOCKS Proxy
+
+To route your internet traffic through Tor, configure your applications to use the Tor SOCKS proxy:
+
+Proxy Address: 127.0.0.1
+
+Port: 9050
+
+Example Configuration:
+Firefox:
+
+1.Go to Settings > Network Settings > Manual Proxy Configuration.
+
+Set SOCKS Host to 127.0.0.1 and Port to 9050.
+
+Select SOCKS v5.
+
+Save the settings
+
+
 ## 🧪 Example Output
 
 [+] New IP: 185.220.101.1
