@@ -46,9 +46,13 @@ sudo ./ChameleonIP.sh
 ## 🧪 Example Output
 
 [+] New IP: 185.220.101.1
+
 [+] Location:
+
    Country: Germany
+   
    Region: Bavaria
+   
    City: Munich
 
 
